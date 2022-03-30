@@ -14,4 +14,6 @@ Very helpful video : https://youtu.be/NRxzvpdduvQ
 Pick your poison : 🧐 <br><br>
 React :  if want to find a job . 💰 <br>
 Vuejs : if you Can spot the différence 😅 <br>
-Svelte js : you'are probebly Gona lose some weight. Know body will hire  you .. of course ! 😂<br> 
+Svelte js : you'are probebly Gona lose some weight. Know body will hire  you .. of course ! 😂
+<br> 
+More vidéos : https://youtu.be/LwU798HJIrY
